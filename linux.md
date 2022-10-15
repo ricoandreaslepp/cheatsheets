@@ -6,6 +6,8 @@
 `seq` <br>
 `uniq` <br>
 `netstat` <br>
+'awk' <br>
+'stat' <br>
 
 ## Privesc
 * https://gtfobins.github.io/ if any programs can be used for privesc <br>
