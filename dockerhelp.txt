@@ -1,0 +1,7 @@
+# docker ps -> list running containers
+# docker images -> list images
+# docker image build [OPTIONS] PATH -> build an image
+# docker compose up -> run a docker container
+# docker compose down -> shutdown
+# docker network ls -> network interfaces
+# docker run --name <container_name> -it <image_name> /bin/bash -> starts a new container
