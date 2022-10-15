@@ -1,0 +1,16 @@
+# Git CLI
+
+git init
+git clone <remote_repo>
+git fetch # check remote changes
+git merge # merge remote changes
+git pull # = git fetch + git merge
+git checkout <hash/branch> # switch to change or branch
+git branch -b <new_branch> # make new branch
+git log # check changes
+
+
+git status # get current status
+git add .
+git commit -m "msg"
+git push 
